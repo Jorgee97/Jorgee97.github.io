@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jorge Gomez</title>
-    <link>http://jorgee97.github.io/tags/</link>
+    <link>https://jorgee97.github.io/tags/</link>
     <description>Recent content in Tags on Jorge Gomez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,42 +10,42 @@
     <webMaster>ingjorgegomez@outlook.com</webMaster>
     <lastBuildDate>Sat, 28 Sep 2019 00:36:35 -0500</lastBuildDate>
     
-	<atom:link href="http://jorgee97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jorgee97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>productivity</title>
-      <link>http://jorgee97.github.io/tags/productivity/</link>
+      <link>https://jorgee97.github.io/tags/productivity/</link>
       <pubDate>Sat, 28 Sep 2019 00:36:35 -0500</pubDate>
       <author>ingjorgegomez@outlook.com</author>
-      <guid>http://jorgee97.github.io/tags/productivity/</guid>
+      <guid>https://jorgee97.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snippets</title>
-      <link>http://jorgee97.github.io/tags/snippets/</link>
+      <link>https://jorgee97.github.io/tags/snippets/</link>
       <pubDate>Sat, 28 Sep 2019 00:36:35 -0500</pubDate>
       <author>ingjorgegomez@outlook.com</author>
-      <guid>http://jorgee97.github.io/tags/snippets/</guid>
+      <guid>https://jorgee97.github.io/tags/snippets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>trick</title>
-      <link>http://jorgee97.github.io/tags/trick/</link>
+      <link>https://jorgee97.github.io/tags/trick/</link>
       <pubDate>Sat, 28 Sep 2019 00:36:35 -0500</pubDate>
       <author>ingjorgegomez@outlook.com</author>
-      <guid>http://jorgee97.github.io/tags/trick/</guid>
+      <guid>https://jorgee97.github.io/tags/trick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VSCode</title>
-      <link>http://jorgee97.github.io/tags/vscode/</link>
+      <link>https://jorgee97.github.io/tags/vscode/</link>
       <pubDate>Sat, 28 Sep 2019 00:36:35 -0500</pubDate>
       <author>ingjorgegomez@outlook.com</author>
-      <guid>http://jorgee97.github.io/tags/vscode/</guid>
+      <guid>https://jorgee97.github.io/tags/vscode/</guid>
       <description></description>
     </item>
     
